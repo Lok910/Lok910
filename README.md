@@ -7,9 +7,9 @@
 🌟 My goal is to solve real-world problems using cutting-edge AI technologies and data-driven insights.
 
 ### 🌐 Connect with Me:
-- **Portfolio**: [lokgautam.dev](http://lokgautam.dev)
-- **LinkedIn**: [Lok Gautam](https://www.linkedin.com/in/lokgautam)
-- **GitHub**: [lok-gautam](https://github.com/lok-gautam)
+- **Portfolio**: [lokgautam.dev](https://lok910.github.io/Portfolio/)
+- **LinkedIn**: [Lok Gautam](https://www.linkedin.com/in/lok-gautam-07991b226/)
+- **GitHub**: [lok-gautam](https://github.com/Lok910)
 
 ---
 
