@@ -24,7 +24,7 @@
 ### 🌟 Featured Projects
 - **[Sentiment Analysis Tool](#)**: An NLP project to analyze text sentiment in real-time.
 - **[Image Classifier](#)**: Built a convolutional neural network for image recognition.
-- **[Data Pipeline Automation](#)**: Automated data ingestion, transformation, and visualization.
+- **[Data Pipeline Automation](https://github.com/Lok910/MLproject)**: Automated data ingestion, transformation, and visualization.
 
 Feel free to browse through my repositories to see more of my work!
 
