@@ -18,6 +18,7 @@
 - **Frameworks & Libraries**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
 - **Tools**: Jupyter Notebook, VS Code, Git
 - **Specializations**: Machine Learning, Deep Learning, NLP, Data Analysis
+- **Course Completed**: [Google Advance Data Analysis](https://www.credly.com/badges/c0d524df-775a-4d4d-b606-8c1f60c67561/public_url)
 
 ---
 
